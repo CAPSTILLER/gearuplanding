@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "GEAR",
+      "hasCanvas": false,
+      "bodyTextLen": 1891,
+      "bodyTextHash": "55d782d25484cb88dbbcfcb4c2fceaf8fca61f8e25e3e77a34889b1e808057ec",
+      "bodyTextPrefix": "What is GEAR? Find a Gear Gear Rack Get Onchain My Invite Code: ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "GEAR",
+      "hasCanvas": false,
+      "bodyTextLen": 1830,
+      "bodyTextHash": "5c1cf396c1c5e89cc78a2d97c773421787f5a40f3122746613736ff1f74553f7",
+      "bodyTextPrefix": "Get Onchain ON BASE Life is a game. Play it onchain. GEAR is a u",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
