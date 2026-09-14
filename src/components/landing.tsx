@@ -210,7 +210,7 @@ export function Landing() {
               it onchain.
             </h1>
             <p className="mt-5 max-w-lg text-base text-muted md:text-lg">
-              GEAR is a utility token driving IRL gears onchain — one scavenger hunt at a time.
+              GEAR is for driving fun onchain — one scavenger hunt at a time.
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <button
