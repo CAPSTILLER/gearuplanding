@@ -447,6 +447,15 @@ export function Landing() {
         <div className="mx-auto mt-8 w-full max-w-6xl px-5 text-right text-xs text-muted">
           © GEAR / CAPSTILLER
         </div>
+
+        <div className="mx-auto mt-10 flex w-full max-w-6xl justify-center px-5">
+          <a
+            href="https://claim.gearup.wtf"
+            className="inline-flex min-w-[220px] items-center justify-center rounded-xl border-2 border-lime bg-lime/15 px-8 py-3.5 text-base font-black tracking-wide text-lime transition hover:bg-lime hover:text-black"
+          >
+            og GEAR claim
+          </a>
+        </div>
       </footer>
 
       {toast ? (
